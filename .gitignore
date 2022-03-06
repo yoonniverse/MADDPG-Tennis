@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+Tennis_Linux/
+unity-environment.log
+Soccer.ipynb
+Tennis.ipynb
